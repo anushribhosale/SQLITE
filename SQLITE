@@ -1,4 +1,4 @@
-Create Database SQLITE;
+Create Database SQLITE; 
 Use SQLITE;
 CREATE TABLE Ages (
   name VARCHAR(128),

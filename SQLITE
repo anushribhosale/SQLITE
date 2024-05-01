@@ -14,3 +14,7 @@ INSERT INTO Ages (name, age) VALUES ('Neshawn', 17);
 INSERT INTO Ages (name, age) VALUES ('Anushri' , 21);
 
 SELECT hex('name||age') AS X FROM Ages ORDER BY X
+
+
+
+THIS LINE SHOULD NOT BE USED IN PERFORMING SQL -> (There is a readme for this file in the link, Thannk You.)
